@@ -1,2 +1,2 @@
 # Instagram_clone
-This is a imple and minified 
+This is a simple and minified version of Instafram
